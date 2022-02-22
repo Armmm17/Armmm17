@@ -15,11 +15,11 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/armandobo._17-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
   <img src="https://img.shields.io/badge/<handle>-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/armandobo._17-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  <img src="https://img.shields.io/badge/dopo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <img src="(https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
