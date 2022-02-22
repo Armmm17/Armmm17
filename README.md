@@ -23,14 +23,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <img src="(https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
+ 
   
 </p>
 <!--
